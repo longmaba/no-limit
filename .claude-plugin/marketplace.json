@@ -1,0 +1,12 @@
+{
+  "name": "longmaba-mods",
+  "description": "Claude Code mods by longmaba",
+  "owner": { "name": "longmaba", "url": "https://github.com/longmaba" },
+  "plugins": [
+    {
+      "name": "no-limit",
+      "source": "./",
+      "description": "Resumes your Claude Code session automatically once the usage limit that stopped it resets"
+    }
+  ]
+}

@@ -1,0 +1,12 @@
+{
+  "name": "no-limit",
+  "displayName": "no-limit",
+  "version": "0.3.0",
+  "description": "Resumes your Claude Code session automatically once the usage limit that stopped it resets",
+  "author": { "name": "longmaba", "url": "https://github.com/longmaba" },
+  "homepage": "https://github.com/longmaba/no-limit",
+  "repository": "https://github.com/longmaba/no-limit",
+  "license": "MIT",
+  "keywords": ["mod", "usage-limit", "rate-limit", "auto-resume"],
+  "types": "./types/index.d.ts"
+}
